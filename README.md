@@ -1,4 +1,4 @@
-# faculdadeTeste
+# faculdade
 Eu amo minha namorada!!!!! <3
 
 Como usar git:
