@@ -5,7 +5,7 @@
 3. git checkout -b branch-test // para criar a branch e acessá-la em seguida.
 4. git checkout branch-test // para acessar uma branch já criada.
 5. git pull // atualizar a branch atual, baixa atualizações já feitas e sincroniza os arquivos com a branch remota.
-~Recomendado desenvolver neste momento~
+**Recomendado desenvolver neste momento**
 6. git merge develop // mergear a branch develop com a branch atual.
 7. git add . // preparar staged.
 8. git commit -m "breve descrição da alteração" // realizar o commit, grava as atualizações na branch atual.
